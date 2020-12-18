@@ -15,7 +15,7 @@ TODO: https://github.com/PaulStoffregen/TimerOne
 //removed as extra libs are not included into travis
 // #define USE_CLICK_ENCODER
 
-#include <rotary.h>
+// #include <rotary.h>
 
 
 #include <SPI.h>
